@@ -12,4 +12,4 @@
 <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ivanzavisic&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ivanzavisic&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr" />
