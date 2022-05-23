@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan  👋
 
-## I'm currently studying electrical engineering with passion for coding.
+## I'm studying electrical engineering with passion for coding.
 
 - 🥅 2022 Goals: Learn more about Angular, web3, backend.
 
