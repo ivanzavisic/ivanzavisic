@@ -2,7 +2,7 @@
 
 ## I'm studying electrical engineering with passion for coding.
 
-- 🥅 2022 Goals: Learn more about Angular, web3, backend.
+- 🥅 2022 Goals: Learn more about Angular, web3, backend, crypto.
 
 
 ### Languages and Tools:
