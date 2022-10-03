@@ -1,8 +1,8 @@
 # Hi there, I'm Ivan  👋
 
-## I'm studying electrical engineering with passion for coding.
+## :notebook: Univ. Bacc. Ing. El. Techn. Inf.
 
-- 🥅 2022 Goals: Learn more about Angular, web3, backend, crypto.
+- 🥅 2022 Goals: Practice to become full-stack developer
 
 
 ### Languages and Tools:
