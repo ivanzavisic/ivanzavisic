@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan  👋
 
-## :notebook: Univ. Bacc. Ing. El. Techn. Inf.
+### :notebook: Univ. Bacc. Ing. El. Techn. Inf.
 
 - 🥅 2022 Goals: Practice to become full-stack developer
 
