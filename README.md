@@ -1,6 +1,6 @@
-# Hi there, I'm Ivan.
+## Hello, there!
 
-### :notebook: Univ. Bacc. Ing. El. Techn. Inf.
+<p> My name is Ivan Zavišić and I am a software engineer from Osijek, Croatia. I love using JavaScript & Angular but I am particularly passionate about working with Content Management Systems. (<a href="" target="_blank">JMS</a>)</p>
 
 ### Languages and Tools:
 
