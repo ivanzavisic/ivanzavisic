@@ -1,6 +1,6 @@
 ## Hello, there!
 
-<p> My name is Ivan Zavišić and I am a software engineer from Osijek, Croatia. I love using JavaScript & Angular but I am particularly passionate about working with Content Management Systems. (<a href="" target="_blank">JMS</a>)</p>
+<p> My name is Ivan Zavišić and I am a software engineer from Osijek, Croatia. I love using JavaScript and Angular but my special passion is working with Content Management Systems. (<a href="" target="_blank">JMS</a>)</p>
 
 ### Languages and Tools:
 
